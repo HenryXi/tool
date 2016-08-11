@@ -1,0 +1,41 @@
+.container {
+    max-width: 1100px;
+}
+
+.navbar-inverse {
+    background: #2e5d89;
+    border-color: rgba(55, 68, 126, 0.43);
+}
+
+.navbar-inverse .navbar-brand {
+    color: #fff;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #9DBBD8;
+}
+
+.footer {
+    min-height: 30px;
+    background-color: #324469;
+    padding: 10px;
+    color: #FFFFFF;
+}
+
+.under_line {
+    border-bottom: 1px solid #e8e8e8;
+    padding-bottom: 5px;
+}
+
+#content {
+    line-height: 1.6;
+    font-size: 16px;
+}
+
+#content p {
+    margin-bottom: 16px;
+}
+
+#content p:last-of-type {
+    margin-bottom: 0px;
+}
